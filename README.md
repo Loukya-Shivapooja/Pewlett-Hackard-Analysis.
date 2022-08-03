@@ -42,8 +42,14 @@ To retrieve this data, three tables were merge together: employees, titles and d
 <img width="769" alt="mentorship" src="https://user-images.githubusercontent.com/107584361/182320005-e7d993d5-0d23-447e-a6be-b5e5b97f44fa.png">
 
 ## Summary
+### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+As the company is preparing for the upcoming "silver tsunami" a good planning is essential, especially when such a large number of the employees is involved. Reports above give a good insight about the number of the employees that are about to retire and hold specific title. However, I believe that additional break down per department will be beneficial for the company.
 
+<img width="656" alt="Screen Shot 2022-08-02 at 5 10 00 PM" src="https://user-images.githubusercontent.com/107584361/182497469-e07a7050-b0ab-4f36-aefe-fecd926b49b9.png">
 
-
+### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+<img width="761" alt="Screen Shot 2022-08-02 at 5 57 50 PM" src="https://user-images.githubusercontent.com/107584361/182501697-9cbd7fc1-da9d-4aa6-b50b-b6d8e2ad9f6b.png">
+The above query helps to understand the number of employees eligible for mentorship in each department by each title.
+As we work with each department head to understand if there are enough qualified retirement ready employees in the departments to mentor the next generation of Pewlett-Hackard employees. This table is a great place to start to find mentorees for the program.
 
 
