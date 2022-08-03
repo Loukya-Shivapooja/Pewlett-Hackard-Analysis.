@@ -1,11 +1,11 @@
 # Pewlett-Hackard-Analysis.
 ## Overview of the Analysis
 ### Purpose of the project
-The purpose of the analysis is to prepare Pewlett-Hackward, a company with several thousand employees for the “silver tsunami” as many current employees reach retirement age. Pewlett-Hackard is looking for future in two ways, 
+The purpose of the analysis is to prepare Pewlett-Hackward, a company with several thousand employees for the “silver tsunami” as many current employees reach retirement age. Pewlett-Hackard is looking for future in two ways
 * It is offering retirement package to those who meet certain criteria. 
-* It is starting to think about which positions need to be filled in near future. 
-* The number of upcoming retirememt will leave thousands of job openings.
-we need to know who will be retiring in the next few years and how many positions it has to be filled and finally generating a list of all employees who are eligible for retirment package. 
+* Selecting employees for Mentorship program.
+
+Also It is starting to think about which positions need to be filled in near future. The number of upcoming retirememt will leave thousands of job openings. We need to know who will be retiring in the next few years and how many positions it has to be filled and finally generating a list of all employees who are eligible for retirment package. 
 ### Resources
 The employee data is available in six CSV files and the analysis is performed using **Relational database**. 
 In this Analysis we use:
@@ -50,6 +50,4 @@ As the company is preparing for the upcoming "silver tsunami" a good planning is
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 <img width="761" alt="Screen Shot 2022-08-02 at 5 57 50 PM" src="https://user-images.githubusercontent.com/107584361/182501697-9cbd7fc1-da9d-4aa6-b50b-b6d8e2ad9f6b.png">
 The above query helps to understand the number of employees eligible for mentorship in each department by each title.
-As we work with each department head to understand if there are enough qualified retirement ready employees in the departments to mentor the next generation of Pewlett-Hackard employees. This table is a great place to start to find mentorees for the program.
-
-
+As we work with each department head to understand if there are enough qualified retirement ready employees in the departments to mentor the next generation of Pewlett-Hackard employees. This table is a great place to start to find mentors for the program.
